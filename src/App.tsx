@@ -23,8 +23,9 @@ export default class App extends Component {
       <FlexmonsterReact.Pivot 
       ref = {this.flexmonsterRef}
       toolbar = {true}
-      report = "https://cdn.flexmonster.com/reports/report.json"
+      report = "https://cdn.flexmonster.com/github/demo-report.json"
       width = "100%"
+      height = "600"
       reportcomplete = {this.reportCompleteHandler}
       /> 
       </IonApp>
