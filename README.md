@@ -1,4 +1,4 @@
-# Ionic pivot table | Flexmonster Pivot Table & Charts sample project with Ionic framework and React
+# Ionic data grid | Flexmonster Pivot Table & Charts sample project with Ionic framework and React
 
 [![Flexmonster Pivot Table & Charts](https://cdn.flexmonster.com/landing.png)](https://www.flexmonster.com?r=sample_ion_react)
 Website: [flexmonster.com](https://www.flexmonster.com?r=sample_ion_react)
